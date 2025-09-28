@@ -1,3 +1,5 @@
+package pakagecom.github.shoya1002;
+
 import java.text.DecimalFormat;
 
 public class Formatter {

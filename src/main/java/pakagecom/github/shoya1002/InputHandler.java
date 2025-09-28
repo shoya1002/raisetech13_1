@@ -1,3 +1,5 @@
+package pakagecom.github.shoya1002;
+
 import java.util.Scanner;
 
 public class InputHandler {
