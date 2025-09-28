@@ -16,7 +16,7 @@ public class Main {
                 }
                 double num1 = Double.parseDouble(inputCheck);
 
-                String operator = inputHandler.getOperator("演算子（+,-,:,/,%）を入力してください：");
+                String operator = inputHandler.getOperator("演算子（+,-,*,/,%）を入力してください：");
                 double num2 = inputHandler.getNumber("2つ目の数値を入力してください：");
 
                 double result = calculator.calculate(num1,num2,operator);
