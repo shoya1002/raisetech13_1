@@ -1,3 +1,5 @@
+package github.shoya1002.raisetech13;
+
 public class Main {
     public static void main(String[] args){
         InputHandler inputHandler = new InputHandler();

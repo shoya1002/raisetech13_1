@@ -1,3 +1,5 @@
+package github.shoya1002.raisetech13;
+
 import java.util.Scanner;
 
 public class InputHandler {
